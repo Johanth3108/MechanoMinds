@@ -1,6 +1,6 @@
 # MechanoMinds
 
-This repository contains the code for controlling an autonomous robot designed for specific tasks. The robot's control system is implemented using an Arduino board and various sensors and actuators.
+This repository contains the code for controlling an 2 wheel differential robot designed for specific tasks. The robot's control system is implemented using an Arduino board and various sensors and actuators.
 
 ### Contents
 
@@ -44,12 +44,8 @@ The robot is capable of performing several predefined tasks, each defined as a s
 
 ### Contributors
 
-This project was developed by [Your Group Name or Members] as part of [Project Name or Course] at [Institution Name].
-
-### License
-
-This project is licensed under the [License Type]. See the LICENSE file for details.
+This project was developed by Johanth PS, Darshan Bharath Muthuveeran Ramakrishnan as part of ACSE6502 Group Project at The University of Sheffield.
 
 ### Contact
 
-For inquiries or support regarding this project, please contact [Your Contact Information].
+For inquiries or support regarding this project, please contact johanth6600@gmail.com.
