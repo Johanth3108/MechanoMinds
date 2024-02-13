@@ -1,5 +1,5 @@
 # MechanoMinds
-
+![Image Description](image_file_path)
 This repository contains the code for controlling an 2 wheel differential robot designed for specific tasks. The robot's control system is implemented using an Arduino board and various sensors and actuators.
 
 ### Contents
